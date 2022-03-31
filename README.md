@@ -14,9 +14,9 @@ The algorithm will attempt to create a full table of values (x/y/z/pitch/yaw/rol
 
 ### Overview of the old software system:
 
-![An overview of the old software system](design/C3-old-SlimeVR.png)
+![An overview of the old software system](design/C4-old-SlimeVR.png)
 
 ### Overview of the proposed software system:
 
-![An overview of the proposed software system](design/C3-new-SlimeVR.png)
+![An overview of the proposed software system](design/C4-new-SlimeVR.png)
 
