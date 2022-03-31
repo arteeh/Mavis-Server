@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Mavis_Server.CameraTrackerCommunicator">
+    <Position X="12.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>IO\CameraTrackerCommunicator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Mavis_Server.HardwareTrackerCommunicator">
+    <Position X="10.75" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>IO\HardwareTrackerCommunicator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Mavis_Server.OpenVRDriverCommunicator">
+    <Position X="12.5" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>IO\OpenVRDriverCommunicator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Mavis_Server.Person">
+    <Position X="9" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAQAhAEAwAAAAAAIBAAAAAECAAQAAAAAAEAAAEMAA=</HashCode>
+      <FileName>Result\Person.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Mavis_Server.TrackingPoint">
+    <Position X="10.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAQAAAAAAAAAAAAAgAAAAAEAAAABgAQAAAAA=</HashCode>
+      <FileName>Result\TrackingPoint.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Mavis_Server.CameraTracker">
+    <Position X="2" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Trackers\CameraTracker.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Mavis_Server.HardwareTracker">
+    <Position X="4.25" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Trackers\HardwareTracker.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Mavis_Server.NeuralTracker">
+    <Position X="6.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Trackers\NeuralTracker.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Mavis_Server.Tracker">
+    <Position X="4.25" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Trackers\Tracker.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Mavis_Server.Program">
+    <Position X="10.75" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Mavis_Server.TrackerFinder">
+    <Position X="12.5" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>TrackerFinder.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
