@@ -25,3 +25,7 @@ The algorithm will attempt to create a full table of values (x/y/z/pitch/yaw/rol
 - Collection of hardware sensor data
 - OpenCV person detection using a webcam
 - Tensorflow machine learning program that fills in the gaps, where data from the above two sources is used as the dataset
+
+### Class diagram
+
+![Diagram of Mavis-Server](design/ClassDiagram.png)
